@@ -80,9 +80,6 @@ img{
     background: #828282;
     opacity: 70%;
 }
-.content-footer{
-    width: 90%;
-}
 .shopping{
     display: flex;
     justify-content: space-between;
